@@ -1,6 +1,6 @@
 import { Suspense } from "react";
 import Banner from "../../Components/Banner/Banner";
-import { useLoaderData } from "react-router";
+import { Link, useLoaderData } from "react-router";
 import AllApps from "../../Components/AllApps/AllApps";
 
 export default function Home(){
@@ -17,7 +17,7 @@ export default function Home(){
                 </Suspense>
         </div>
         <div className="mt-7">
-            <button  className="btn bg-[#632EE3] text-white ml-[48%]">Show All</button>
+           <Link to={'/apps'}> <button  className="btn bg-[#632EE3] text-white ml-[48%]">Show All</button></Link>
         </div>
     </>)
 }

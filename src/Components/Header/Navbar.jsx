@@ -7,6 +7,9 @@ import './Nav.css';
 
 export default function Navbar() {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
+    const goToGithub = ()=>{
+        window.open("https://github.com/Palok123", "_blank");
+    }
     return (
         <nav className="flex justify-between items-center mt-4 relative  w-[94%] mx-auto ">
 
@@ -31,7 +34,7 @@ export default function Navbar() {
               </div>
             <div className=" text-[18px]">
                
-                <button className="bg-[#9F62F2] py-2 px-4 text-white rounded-md flex items-center gap-1"> <FaGithub /> <span>Contribute</span></button>
+                <button onClick={goToGithub} className="bg-[#9F62F2] py-2 px-4 text-white rounded-md flex items-center gap-1"> <FaGithub /> <span>Contribute</span></button>
             </div>
         
            
