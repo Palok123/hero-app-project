@@ -1,0 +1,281 @@
+[
+{
+"image":"https://images.unsplash.com/photo-1611605698335-8b1569810432",
+"title":"QuickChat Messenger",
+"companyName":"TechSoft Ltd.",
+"id":1,
+"description":"A fast and secure messaging app.",
+"size":45,
+"reviews":1200,
+"ratingAvg":4.5,
+"downloads":500000,
+"ratings":[{"name":"1 star","count":50},{"name":"2 star","count":80},{"name":"3 star","count":200},{"name":"4 star","count":400},{"name":"5 star","count":470}],
+"fullDetails":"QuickChat Messenger is a modern communication platform designed to help users stay connected with friends, family, and colleagues from anywhere in the world. The app provides fast messaging, voice calls, and high-quality video calls that work smoothly even on slower internet connections. Users can share photos, videos, documents, voice notes, and stickers instantly. The interface is simple and intuitive so anyone can use it without difficulty. Security is also a top priority, with end-to-end encryption protecting every conversation. Group chats allow teams and communities to collaborate easily, while customizable themes and emoji reactions make conversations more engaging. Cloud synchronization ensures that messages are safely backed up and accessible from multiple devices. Overall, QuickChat Messenger offers a reliable, secure, and enjoyable communication experience for everyday personal and professional use."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1511379938547-c1f69419868d",
+"title":"SoundWave Music Player",
+"companyName":"SoundWave",
+"id":2,
+"description":"Stream your favorite music.",
+"size":70,
+"reviews":2500,
+"ratingAvg":4.6,
+"downloads":900000,
+"ratings":[{"name":"1 star","count":80},{"name":"2 star","count":100},{"name":"3 star","count":300},{"name":"4 star","count":700},{"name":"5 star","count":1320}],
+"fullDetails":"SoundWave Music Player is an advanced music streaming and playback application designed for music lovers who want high-quality audio and a smooth listening experience. The app provides access to thousands of songs, albums, and curated playlists across many different genres. A smart recommendation system analyzes listening habits and suggests new music tailored to each user’s taste. The built-in equalizer allows users to adjust bass, treble, and other sound settings for a personalized audio experience. SoundWave also supports offline downloads so music can be enjoyed without an internet connection. Lyrics, artist profiles, and trending charts help users discover new music easily. The modern interface makes browsing songs fast and enjoyable. Whether relaxing at home, working, or traveling, SoundWave Music Player delivers a powerful and enjoyable music experience."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1542038784456-1ea8e935640e",
+"title":"PixelPro Photo Editor",
+"companyName":"Pixel Studio",
+"id":3,
+"description":"Edit and enhance your photos easily.",
+"size":80,
+"reviews":2000,
+"ratingAvg":4.6,
+"downloads":800000,
+"ratings":[{"name":"1 star","count":70},{"name":"2 star","count":90},{"name":"3 star","count":300},{"name":"4 star","count":600},{"name":"5 star","count":940}],
+"fullDetails":"PixelPro Photo Editor is a powerful mobile editing tool that allows users to transform ordinary photos into stunning works of art. The application provides a large collection of editing tools including brightness control, contrast adjustment, cropping, filters, and color correction. Advanced tools such as background removal, portrait enhancement, and object cleanup allow users to perform professional-level edits directly from their mobile device. The app also includes hundreds of creative filters, frames, overlays, and effects that help users design visually impressive social media posts. Editing is fast thanks to optimized image processing technology. Users can save their work in high resolution and share it instantly to social platforms. PixelPro is perfect for beginners who want simple editing tools and also for experienced photographers who need powerful mobile editing capabilities."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1518770660439-4636190af475",
+"title":"DevCode Academy",
+"companyName":"DevHub",
+"id":4,
+"description":"Learn coding interactively.",
+"size":55,
+"reviews":1500,
+"ratingAvg":4.7,
+"downloads":650000,
+"ratings":[{"name":"1 star","count":40},{"name":"2 star","count":60},{"name":"3 star","count":200},{"name":"4 star","count":500},{"name":"5 star","count":700}],
+"fullDetails":"DevCode Academy is an interactive coding learning platform designed for beginners and experienced developers who want to improve their programming skills. The app provides step-by-step lessons in popular languages such as JavaScript, Python, Java, and C++. Users can practice coding directly in the built-in editor and receive instant feedback on their solutions. Gamified challenges and quizzes help reinforce learning while keeping the process engaging and enjoyable. The platform also includes real-world projects that help learners build practical development skills. Progress tracking allows users to monitor improvement and stay motivated. DevCode Academy also offers a supportive community where learners can ask questions and share knowledge. Whether someone wants to start a career in software development or simply learn programming as a hobby, this app provides a comprehensive and structured learning experience."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1500534314209-a25ddb2bd429",
+"title":"TripPlanner Guide",
+"companyName":"Journey Inc.",
+"id":5,
+"description":"Plan your trips effortlessly.",
+"size":85,
+"reviews":1400,
+"ratingAvg":4.3,
+"downloads":450000,
+"ratings":[{"name":"1 star","count":60},{"name":"2 star","count":80},{"name":"3 star","count":200},{"name":"4 star","count":500},{"name":"5 star","count":560}],
+"fullDetails":"TripPlanner Guide is a smart travel planning application designed to make trips easier and more organized. The app allows users to search for destinations, explore attractions, and create detailed travel itineraries. Integrated maps and navigation tools help travelers find routes, nearby hotels, restaurants, and tourist locations quickly. The application also provides travel tips, weather updates, and local recommendations so users can prepare better for their journeys. Travelers can store tickets, bookings, and notes inside the app to keep everything organized in one place. The interface is designed to be simple and visually appealing, making trip planning an enjoyable experience. Whether planning a short weekend getaway or a long international vacation, TripPlanner Guide helps travelers manage every aspect of their journey with confidence and convenience."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+"title":"FoodExpress Delivery",
+"companyName":"MealBox",
+"id":6,
+"description":"Order food from nearby restaurants.",
+"size":95,
+"reviews":3200,
+"ratingAvg":4.6,
+"downloads":1200000,
+"ratings":[{"name":"1 star","count":110},{"name":"2 star","count":140},{"name":"3 star","count":350},{"name":"4 star","count":900},{"name":"5 star","count":1700}],
+"fullDetails":"FoodExpress Delivery is a convenient food ordering application that connects users with hundreds of nearby restaurants. With just a few taps, customers can browse menus, compare prices, read reviews, and place orders instantly. Real-time order tracking allows users to follow their delivery from the restaurant kitchen to their doorstep. The app supports secure online payments as well as cash-on-delivery options for convenience. FoodExpress also provides special deals, discounts, and promotional offers for loyal customers. A smart recommendation system suggests popular meals based on previous orders and local trends. The user interface is clean and easy to navigate, making the entire ordering process quick and enjoyable. Whether craving fast food, traditional dishes, or international cuisine, FoodExpress Delivery makes satisfying hunger simple and fast."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+"title":"SecureLock Vault",
+"companyName":"SafeTech",
+"id":7,
+"description":"Protect your data securely.",
+"size":40,
+"reviews":900,
+"ratingAvg":4.5,
+"downloads":350000,
+"ratings":[{"name":"1 star","count":30},{"name":"2 star","count":50},{"name":"3 star","count":150},{"name":"4 star","count":300},{"name":"5 star","count":370}],
+"fullDetails":"SecureLock Vault is a privacy-focused application designed to protect sensitive files and personal information. Users can safely store documents, photos, passwords, and notes inside an encrypted digital vault. The app uses strong security protocols and biometric authentication such as fingerprint or face unlock to ensure that only authorized users can access protected data. Automatic backup options allow users to keep copies of their files in secure cloud storage. SecureLock Vault also includes password generation tools that help users create strong and unique passwords for online accounts. The interface is simple and user friendly so anyone can secure their digital life without technical knowledge. With rising concerns about privacy and data protection, SecureLock Vault offers an effective and reliable solution for safeguarding personal information."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+"title":"TeamConnect Workspace",
+"companyName":"CollabWorks",
+"id":8,
+"description":"Collaborate with your team easily.",
+"size":60,
+"reviews":1100,
+"ratingAvg":4.4,
+"downloads":400000,
+"ratings":[{"name":"1 star","count":60},{"name":"2 star","count":70},{"name":"3 star","count":180},{"name":"4 star","count":350},{"name":"5 star","count":440}],
+"fullDetails":"TeamConnect Workspace is a collaboration platform that helps teams communicate, organize tasks, and manage projects efficiently. The app provides chat channels, video meetings, file sharing, and task tracking tools that keep everyone on the same page. Teams can create project boards, assign tasks, set deadlines, and monitor progress in real time. Built-in notifications ensure that team members never miss important updates. The app integrates with popular productivity tools so users can streamline their workflow. A clean dashboard provides an overview of ongoing tasks and project status. TeamConnect Workspace is especially useful for remote teams and organizations that rely on digital collaboration. With its combination of communication and productivity tools, the platform helps teams work smarter and achieve goals faster."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+"title":"OfficeSuite Manager",
+"companyName":"WorkSmart",
+"id":9,
+"description":"Boost productivity at work.",
+"size":50,
+"reviews":1300,
+"ratingAvg":4.3,
+"downloads":480000,
+"ratings":[{"name":"1 star","count":40},{"name":"2 star","count":60},{"name":"3 star","count":200},{"name":"4 star","count":450},{"name":"5 star","count":550}],
+"fullDetails":"OfficeSuite Manager is a productivity application designed to help professionals organize their work more effectively. The app provides tools for managing documents, schedules, meetings, and daily tasks. Users can create notes, track deadlines, and store important files within a secure workspace. Integration with calendars and reminders ensures that meetings and important tasks are never missed. OfficeSuite Manager also includes document editing capabilities so users can view and modify files directly from their mobile device. The interface is simple yet powerful, allowing users to focus on their work without distractions. Whether used by freelancers, students, or corporate employees, the application helps improve productivity and organization in daily work routines."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1503676260728-1c00da094a0b",
+"title":"SkillBoost Learning",
+"companyName":"EduTech",
+"id":10,
+"description":"Learn new skills online.",
+"size":55,
+"reviews":1800,
+"ratingAvg":4.4,
+"downloads":600000,
+"ratings":[{"name":"1 star","count":70},{"name":"2 star","count":90},{"name":"3 star","count":250},{"name":"4 star","count":600},{"name":"5 star","count":790}],
+"fullDetails":"SkillBoost Learning is an online education platform that provides courses designed to help people learn valuable skills and advance their careers. The app offers lessons in business, technology, design, marketing, and many other subjects. Courses are taught by experienced instructors and include video lectures, quizzes, and practical assignments. Users can track their progress and earn certificates after completing courses. The platform also suggests personalized learning paths based on interests and career goals. A built-in discussion community allows students to ask questions and interact with other learners. With flexible learning schedules and mobile accessibility, SkillBoost Learning makes education accessible anytime and anywhere."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1517842645767-c639042777db",
+"title":"NoteKeeper Organizer",
+"companyName":"Productive Inc.",
+"id":11,
+"description":"Take notes and organize tasks.",
+"size":25,
+"reviews":700,
+"ratingAvg":4.2,
+"downloads":200000,
+"ratings":[{"name":"1 star","count":30},{"name":"2 star","count":50},{"name":"3 star","count":120},{"name":"4 star","count":250},{"name":"5 star","count":250}],
+"fullDetails":"NoteKeeper Organizer is a lightweight productivity application that helps users capture ideas, notes, and daily tasks quickly. The app provides a simple note editor with formatting tools, checklists, and reminder features. Users can categorize notes into folders and search through them instantly using smart search. Cloud synchronization ensures that notes are accessible across multiple devices. NoteKeeper also supports voice notes and image attachments, allowing users to store information in different formats. The clean design keeps distractions minimal and helps users focus on organizing their thoughts. Whether used for study notes, meeting summaries, or daily planning, NoteKeeper Organizer makes managing information simple and efficient."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1493711662062-fa541adb3fc8",
+"title":"ArcadeRush Gaming",
+"companyName":"FunPlay Studios",
+"id":12,
+"description":"Enjoy exciting arcade games.",
+"size":150,
+"reviews":5000,
+"ratingAvg":4.7,
+"downloads":2000000,
+"ratings":[{"name":"1 star","count":100},{"name":"2 star","count":150},{"name":"3 star","count":500},{"name":"4 star","count":1200},{"name":"5 star","count":3050}],
+"fullDetails":"ArcadeRush Gaming is an entertaining mobile gaming application packed with a variety of fun arcade-style games. Players can enjoy fast-paced challenges, compete with friends, and unlock achievements as they progress through different levels. The app includes multiple mini-games ranging from puzzles and racing to action adventures. Smooth graphics and responsive controls make gameplay enjoyable on all devices. Online leaderboards allow players to compete globally and showcase their high scores. Frequent updates introduce new challenges and seasonal events to keep the experience fresh. ArcadeRush Gaming is perfect for quick entertainment during short breaks or extended gaming sessions."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1501973801540-537f08ccae7b",
+"title":"WeatherTrack Forecast",
+"companyName":"SkyNet",
+"id":13,
+"description":"Real-time weather updates.",
+"size":35,
+"reviews":1100,
+"ratingAvg":4.4,
+"downloads":400000,
+"ratings":[{"name":"1 star","count":60},{"name":"2 star","count":70},{"name":"3 star","count":180},{"name":"4 star","count":350},{"name":"5 star","count":440}],
+"fullDetails":"WeatherTrack Forecast provides accurate and real-time weather information for cities around the world. The app displays temperature, humidity, wind speed, rainfall probability, and extended forecasts in an easy-to-read format. Interactive radar maps allow users to monitor weather conditions visually. The application also sends alerts for severe weather events such as storms or heavy rainfall. WeatherTrack helps users plan daily activities with confidence by offering reliable predictions and hourly updates. The clean interface ensures that weather information is easy to understand at a glance."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1472851294608-062f824d29cc",
+"title":"ShopSmart Marketplace",
+"companyName":"RetailHub",
+"id":14,
+"description":"Online shopping made easy.",
+"size":90,
+"reviews":3000,
+"ratingAvg":4.5,
+"downloads":1000000,
+"ratings":[{"name":"1 star","count":120},{"name":"2 star","count":180},{"name":"3 star","count":400},{"name":"4 star","count":900},{"name":"5 star","count":1400}],
+"fullDetails":"ShopSmart Marketplace is an e-commerce platform that allows users to browse and purchase products from thousands of online stores. The app provides detailed product listings, customer reviews, and price comparisons to help shoppers make informed decisions. Secure payment systems and reliable delivery tracking ensure safe and convenient shopping experiences. Users can create wish lists, receive personalized recommendations, and access exclusive discounts. ShopSmart simplifies online shopping by combining a wide product selection with powerful search tools and user-friendly design."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+"title":"MoneyTrack Finance",
+"companyName":"MoneyWise",
+"id":15,
+"description":"Manage your finances efficiently.",
+"size":65,
+"reviews":1600,
+"ratingAvg":4.4,
+"downloads":550000,
+"ratings":[{"name":"1 star","count":50},{"name":"2 star","count":70},{"name":"3 star","count":220},{"name":"4 star","count":500},{"name":"5 star","count":760}],
+"fullDetails":"MoneyTrack Finance helps users monitor expenses, manage budgets, and improve financial planning. The app categorizes spending automatically and provides visual reports that show where money is being spent. Users can set savings goals, track bills, and receive reminders for upcoming payments. Secure encryption protects financial information while cloud synchronization ensures data safety. MoneyTrack Finance is a practical tool for anyone who wants to build better financial habits and maintain control over personal finances."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1529333166437-7750a6dd5a70",
+"title":"LinguaLearn Languages",
+"companyName":"LinguaTech",
+"id":16,
+"description":"Learn multiple languages easily.",
+"size":75,
+"reviews":2100,
+"ratingAvg":4.7,
+"downloads":700000,
+"ratings":[{"name":"1 star","count":60},{"name":"2 star","count":90},{"name":"3 star","count":250},{"name":"4 star","count":650},{"name":"5 star","count":1050}],
+"fullDetails":"LinguaLearn Languages is an engaging language learning app that helps users master new languages through interactive lessons and practical exercises. The platform includes vocabulary training, pronunciation practice, and conversation simulations that mimic real-life communication. Lessons are designed for beginners as well as advanced learners and progress gradually in difficulty. Daily challenges and quizzes help reinforce knowledge while keeping learning enjoyable. With flexible study schedules and progress tracking, LinguaLearn makes language learning convenient and motivating."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b",
+"title":"TaskManager Pro",
+"companyName":"WorkSmart",
+"id":17,
+"description":"Boost your productivity with task management.",
+"size":50,
+"reviews":1300,
+"ratingAvg":4.3,
+"downloads":480000,
+"ratings":[{"name":"1 star","count":40},{"name":"2 star","count":60},{"name":"3 star","count":200},{"name":"4 star","count":450},{"name":"5 star","count":550}],
+"fullDetails":"TaskManager Pro helps users organize daily responsibilities and stay productive. The application allows users to create tasks, set deadlines, and prioritize work efficiently. Reminders and notifications ensure that important activities are never forgotten. Users can also create task lists for projects and monitor progress visually. The clean interface keeps task management simple while still offering powerful productivity features."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1504711434969-e33886168f5c",
+"title":"DailyNews Hub",
+"companyName":"MediaCorp",
+"id":18,
+"description":"Stay updated with latest news.",
+"size":40,
+"reviews":1700,
+"ratingAvg":4.2,
+"downloads":520000,
+"ratings":[{"name":"1 star","count":70},{"name":"2 star","count":100},{"name":"3 star","count":300},{"name":"4 star","count":600},{"name":"5 star","count":630}],
+"fullDetails":"DailyNews Hub provides breaking news and trending stories from around the world. The app gathers information from reliable sources and presents articles in a clean and easy-to-read format. Users can explore topics such as technology, politics, business, entertainment, and sports. Personalized news feeds allow readers to follow topics that interest them most. Notifications keep users informed about major events as they happen."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+"title":"CloudBackup Sync",
+"companyName":"DataCloud",
+"id":19,
+"description":"Sync and backup your files.",
+"size":65,
+"reviews":1450,
+"ratingAvg":4.5,
+"downloads":620000,
+"ratings":[{"name":"1 star","count":50},{"name":"2 star","count":70},{"name":"3 star","count":200},{"name":"4 star","count":500},{"name":"5 star","count":630}],
+"fullDetails":"CloudBackup Sync allows users to safely store and synchronize files across multiple devices. Photos, videos, and documents are automatically backed up to secure cloud storage. The app ensures that files remain accessible anytime and anywhere. Advanced encryption keeps data protected while fast upload technology ensures quick backups. CloudBackup Sync is ideal for users who want reliable data protection and convenient access to their files."
+},
+
+{
+"image":"https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+"title":"SmartEvent Planner",
+"companyName":"PlanIt",
+"id":20,
+"description":"Organize and manage your events.",
+"size":70,
+"reviews":1000,
+"ratingAvg":4.3,
+"downloads":410000,
+"ratings":[{"name":"1 star","count":40},{"name":"2 star","count":60},{"name":"3 star","count":180},{"name":"4 star","count":350},{"name":"5 star","count":370}],
+"fullDetails":"SmartEvent Planner helps users organize events such as meetings, parties, conferences, and personal celebrations. The app allows users to create event schedules, manage guest lists, and track tasks related to planning. Invitations and reminders can be sent directly from the application. The interface provides clear timelines and checklists so nothing is forgotten during preparation."
+}
+]
