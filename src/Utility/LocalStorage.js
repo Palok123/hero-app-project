@@ -1,3 +1,5 @@
+import Swal from 'sweetalert2'
+  import {  toast } from 'react-toastify';
 const getStoredId = ()=>{
     const ids = localStorage.getItem('installAppsId');
     if(ids){
@@ -14,6 +16,11 @@ const setIdToDb = (id)=>{
     }
     ids.push(id);
     localStorage.setItem('installAppsId',JSON.stringify(ids));
+    Swal.fire({
+  title: "Good job!",
+  text: "Apps Installed",
+  icon: "success"
+});
 
 }
 const removeFromDb = (id)=> {
@@ -21,6 +28,7 @@ const removeFromDb = (id)=> {
     const newIds = storedIds.filter(i => i!=id);
      localStorage.setItem('installAppsId',JSON.stringify(newIds));
 
+    toast("1 apps uninstalled successfull")
 
 }
 export {setIdToDb,getStoredId,removeFromDb}

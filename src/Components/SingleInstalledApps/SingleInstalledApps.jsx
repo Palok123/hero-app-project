@@ -1,12 +1,12 @@
 import { useState } from 'react';
 import downloadLogo from '../../assets/icon-downloads.png'
 import ratingIcon from '../../assets/icon-ratings.png'
-import { removeFromDb } from '../../Utility/LocalStorage';
-export default function SingleInstalledApps({apps}){
+
+export default function SingleInstalledApps({apps,handleUnInstalled}){
     const downloads = apps.downloads.toString()[0];
-    const [isInstall,setIsInstall] = useState(true);
+    
     return (
-        <div className={`${isInstall ? '':'hidden'} bg-white p-4 rounded-sm flex justify-between items-center mt-4`}>
+        <div className={` bg-white p-4 rounded-sm flex justify-between items-center mt-4`}>
             <div className="flex gap-4 mt-2">
                 <div>
                     <img src={apps.image} className="w-20 h-20 rounded-sm" />
@@ -29,7 +29,7 @@ export default function SingleInstalledApps({apps}){
                 </div>
             </div>
             <div>
-                <button onClick={()=>{removeFromDb(apps.id); setIsInstall(!isInstall)}} className='btn font-semibold text-white  bg-[#00D390]'>Uninstall</button>
+                <button onClick={()=>handleUnInstalled(apps.id)} className='btn font-semibold text-white  bg-[#00D390]'>Uninstall</button>
             </div>
         </div>
     )

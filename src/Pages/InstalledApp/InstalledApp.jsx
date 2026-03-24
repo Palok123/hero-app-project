@@ -1,28 +1,39 @@
 import { useEffect, useState } from "react"
 import { useLoaderData } from "react-router"
-import { getStoredId } from "../../Utility/LocalStorage";
+import { getStoredId, removeFromDb } from "../../Utility/LocalStorage";
 import SingleInstalledApps from "../../Components/SingleInstalledApps/SingleInstalledApps";
 
 export default function InstalledApps(){
     const [sortType,setSortType] = useState('') ;
     const [installedApps,setInstalledApps] =  useState([]);
     const allApps = useLoaderData();
+
     useEffect(()=>{
                 const storedAppsId = getStoredId();
                 const installedAppsInfo = allApps.filter(apps => storedAppsId.includes(apps.id.toString()));
                 setInstalledApps(installedAppsInfo)
+                
+                
     },[])
+    const handleUnInstalled = (id)=>{
+            removeFromDb(id);
+             const storedAppsId = getStoredId();
+                const installedAppsInfo = allApps.filter(apps => storedAppsId.includes(apps.id.toString()));
+                setInstalledApps(installedAppsInfo)
+                
+           
+    }
     
     const handleSortType = (type)=>{
         setSortType(type);
         if(type==='size')
         {
-            const sortBySize = installedApps.sort((a,b)=>a.size - b.size);
+            const sortBySize = [...installedApps].sort((a,b)=>a.size - b.size);
             setInstalledApps(sortBySize);
             return;
         }
         if(type==='downloads'){
-            const sortByDownloads = installedApps.sort((a,b)=>a.downloads - b.downloads);
+            const sortByDownloads = [...installedApps].sort((a,b)=>a.downloads - b.downloads);
             setInstalledApps(sortByDownloads);
             return;
         }
@@ -35,7 +46,7 @@ export default function InstalledApps(){
                 <p className="text-[#627382] text-center text-[20px] mt-4">Explore All Trending Apps on the Market developed by us</p>
             </div>
             <div className="mt-10 flex justify-between items-center">
-                <h3 className="text-2xl font-semibold">1 Apps Found</h3>
+                <h3 className="text-2xl font-semibold">{installedApps.length} Apps Found</h3>
                 <div>
                     <details className="dropdown ">
                         <summary className="btn m-1 bg-[#dee0e2] text-[#627382] border border-[#627382]">sort by : {sortType} </summary>
@@ -48,7 +59,7 @@ export default function InstalledApps(){
             </div>
             <div className="mt-8">
                     {
-                        installedApps.map(apps => <SingleInstalledApps key={apps.id} apps={apps}></SingleInstalledApps>)
+                        installedApps.map(apps => <SingleInstalledApps key={apps.id} apps={apps} handleUnInstalled={handleUnInstalled} ></SingleInstalledApps>)
                     }
             </div>
         </div>

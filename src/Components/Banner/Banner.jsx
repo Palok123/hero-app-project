@@ -2,6 +2,12 @@ import plastoreLogo  from '../../assets/Group.png'
 import appsstoreLogo from '../../assets/appstore.png';
 import bannerLogo from '../../assets/hero.png'
 export default function Banner(){
+    const goToGooglePlay = ()=>{
+        window.open('https://play.google.com/store/games?hl=en',"_blank");
+    }
+    const goToAppsStore = ()=>{
+        window.open('https://www.apple.com/app-store/','_blank');
+    }
     return (
         <div className="mt-20">
             <div>
@@ -9,8 +15,8 @@ export default function Banner(){
                 <p className="text-center text-[#627382] mt-4 max-w-[80%] sm:max-w-[60%] mx-auto">At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
             </div>
             <div className="text-center mt-10">
-                <button className="text-xl font-semibold btn  bg-[#D2D2D2]  "><img src={plastoreLogo} className='w-6 h-6 mx-1' alt="playstore-logo" />Google Play</button>
-                <button className="text-xl ml-5 font-semibold btn bg-[#D2D2D2]"><img src={appsstoreLogo} className='w-5 h-5 mx-1 ' alt="appstore-logo" />App Store</button>
+                <button onClick={goToGooglePlay} className="text-xl font-semibold btn  bg-[#D2D2D2]  "><img src={plastoreLogo} className='w-6 h-6 mx-1' alt="playstore-logo" />Google Play</button>
+                <button onClick={goToAppsStore} className="text-xl ml-5 font-semibold btn bg-[#D2D2D2]"><img src={appsstoreLogo} className='w-5 h-5 mx-1 ' alt="appstore-logo" />App Store</button>
             </div>
             <div className='mt-10'>
                 <img src={bannerLogo} className='mx-auto w-80 sm:w-120 ' />
